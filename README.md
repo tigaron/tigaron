@@ -36,6 +36,26 @@
             </td>
         </td>
         </tr>
+        <tr>
+            <td>
+                <img src="https://img.shields.io/static/v1?label=&message=Svelte&color=FF0000&logo=svelte&logoColor=FFFFFF">
+            </td>
+            <td>
+                <a href="https://github.com/tigaron/svelte-blog">
+                    <img src="https://img.shields.io/static/v1?label=&message=svelte-blog&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605">
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="https://img.shields.io/static/v1?label=&message=Strapi&color=0000FF&logo=strapi&logoColor=FFFFFF">
+            </td>
+            <td>
+                <a href="https://github.com/tigaron/strapi-blog">
+                    <img src="https://img.shields.io/static/v1?label=&message=strapi-blog&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605">
+                </a>
+            </td>
+        </tr>
     </table>
 </details>
 
