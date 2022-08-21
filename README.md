@@ -57,6 +57,7 @@
             <td>
                 <img src="https://img.shields.io/static/v1?label=&message=Strapi&color=2E7EEA&logo=strapi&logoColor=FFFFFF">
                 <img src="https://img.shields.io/static/v1?label=&message=Postgres&color=316192&logo=postgresql&logoColor=FFFFFF">
+                <img src="https://img.shields.io/static/v1?label=&message=GraphQL&color=E10098&logo=graphql&logoColor=FFFFFF">
             </td>
             <td>
                 <a href="https://github.com/tigaron/strapi-blog">
