@@ -17,7 +17,10 @@
         </tr>
         <tr>
             <td>
-                <img src="https://img.shields.io/static/v1?label=&message=Express.js&color=339933&logo=Node.js&logoColor=FFFFFF">
+                <img src="https://img.shields.io/static/v1?label=&message=Express.js&color=404d59&logo=express&logoColor=FFFFFF">
+                <img src="https://img.shields.io/static/v1?label=&message=Serverless&color=ff0000&logo=serverless&logoColor=FFFFFF">
+                <img src="https://img.shields.io/static/v1?label=&message=AWS%20Lambda&color=FF9900&logo=amazon-aws&logoColor=FFFFFF">
+                <img src="https://img.shields.io/static/v1?label=&message=Amazon%20DynamoDB&color=4053D6&logo=Amazon%20DynamoDB&logoColor=FFFFFF">
             </td>
             <td>
                 <a href="https://github.com/tigaron/serverless-manga-scrapper">
@@ -41,7 +44,8 @@
         </tr>
         <tr>
             <td>
-                <img src="https://img.shields.io/static/v1?label=&message=Svelte&color=FF0000&logo=svelte&logoColor=FFFFFF">
+                <img src="https://img.shields.io/static/v1?label=&message=Svelte&color=f1413d&logo=svelte&logoColor=FFFFFF">
+                <img src="https://img.shields.io/static/v1?label=&message=Tailwind%20CSS&color=38B2AC&logo=tailwind-css&logoColor=FFFFFF">
             </td>
             <td>
                 <a href="https://github.com/tigaron/svelte-blog">
@@ -51,7 +55,8 @@
         </tr>
         <tr>
             <td>
-                <img src="https://img.shields.io/static/v1?label=&message=Strapi&color=0000FF&logo=strapi&logoColor=FFFFFF">
+                <img src="https://img.shields.io/static/v1?label=&message=Strapi&color=2E7EEA&logo=strapi&logoColor=FFFFFF">
+                <img src="https://img.shields.io/static/v1?label=&message=Postgres&color=316192&logo=postgresql&logoColor=FFFFFF">
             </td>
             <td>
                 <a href="https://github.com/tigaron/strapi-blog">
