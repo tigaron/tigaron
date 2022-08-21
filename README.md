@@ -17,7 +17,7 @@
         </tr>
         <tr>
             <td>
-                <img src="https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=Express.js&logoColor=FFFFFF">
+                <img src="https://img.shields.io/static/v1?label=&message=Express.js&color=339933&logo=Node.js&logoColor=FFFFFF">
             </td>
             <td>
                 <a href="https://github.com/tigaron/serverless-manga-scrapper">
