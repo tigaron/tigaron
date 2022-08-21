@@ -17,7 +17,7 @@
         </tr>
         <tr>
             <td>
-                <img src="https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF">
+                <img src="https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=Express.js&logoColor=FFFFFF">
             </td>
             <td>
                 <a href="https://github.com/tigaron/serverless-manga-scrapper">
@@ -32,6 +32,9 @@
             <td>
                 <a href="https://github.com/tigaron/subnet-calculator">
                     <img src="https://img.shields.io/static/v1?label=&message=subnet-calculator&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605">
+                </a>
+                <a href="https://github.com/tigaron/tsnet-cli">
+                    <img src="https://img.shields.io/static/v1?label=&message=tsnet-cli&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605">
                 </a>
             </td>
         </td>
