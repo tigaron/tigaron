@@ -2,7 +2,7 @@
     <summary>
         <h2 style="display:inline">Welcome to my GitHub profile! 👋</h2>
     </summary>
-    <p>I'm a Software Developer and occasional Cloud Engineer, currently working for a digital agency Four Leaves Studio.</p>
+    <p>I'm a Node.js Software Developer and occasional AWS DevOps, currently working for a digital agency Four Leaves Studio.</p>
     <p>I love building softwares, automating my workflows, reading novels and comics.</p>
     <p>I'm currently learning more about DevOps and Amazon Web Service.</p>
     </details>
