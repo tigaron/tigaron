@@ -15,7 +15,7 @@
     </summary>
     <table>
         <tr>
-            <th>Repositories 🛠</th>
+            <th>Repository 🛠</th>
             <th>Technology 💻</th>
         </tr>
         <tr>
@@ -27,7 +27,7 @@
             <td>
                 <img src="https://img.shields.io/static/v1?label=&message=Express.js&color=404d59&logo=express&logoColor=FFFFFF">
                 <img src="https://img.shields.io/static/v1?label=&message=Serverless&color=ff0000&logo=serverless&logoColor=FFFFFF">
-                <img src="https://img.shields.io/static/v1?label=&message=AWS%20Lambda&color=FF9900&logo=amazon-aws&logoColor=FFFFFF">
+                <img src="https://img.shields.io/static/v1?label=&message=AWS%20Lambda&color=FF9900&logo=aws-lambda&logoColor=FFFFFF">
                 <img src="https://img.shields.io/static/v1?label=&message=Amazon%20DynamoDB&color=4053D6&logo=Amazon%20DynamoDB&logoColor=FFFFFF">
                 <img src="https://img.shields.io/static/v1?label=&message=Puppeteer&color=01d8a2&logo=puppeteer&logoColor=FFFFFF">
                 <img src="https://img.shields.io/static/v1?label=&message=Jest&color=15c213&logo=jest&logoColor=FFFFFF">
@@ -53,9 +53,22 @@
             </td>
             <td>
                 <img src="https://img.shields.io/static/v1?label=&message=Strapi&color=2E7EEA&logo=strapi&logoColor=FFFFFF">
-                <img src="https://img.shields.io/static/v1?label=&message=Postgres&color=316192&logo=postgresql&logoColor=FFFFFF">
+                <img src="https://img.shields.io/static/v1?label=&message=PostgreSQL&color=316192&logo=postgresql&logoColor=FFFFFF">
                 <img src="https://img.shields.io/static/v1?label=&message=GraphQL&color=E10098&logo=graphql&logoColor=FFFFFF">
                 <img src="https://img.shields.io/static/v1?label=&message=Amazon%20S3&color=e35444&logo=amazon-s3&logoColor=FFFFFF">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/tigaron/gitlab-ecr-eks">
+                    <img src="https://img.shields.io/static/v1?label=&message=gitlab-ecr-eks&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605">
+                </a>
+            </td>
+            <td>
+                <img src="https://img.shields.io/static/v1?label=&message=GitLab%20CI/CD&color=0f0a19&logo=gitlab&logoColor=FFFFFF">
+                <img src="https://img.shields.io/static/v1?label=&message=Docker&color=1397c3&logo=docker&logoColor=FFFFFF">
+                <img src="https://img.shields.io/static/v1?label=&message=Kubernetes&color=336ce6&logo=kubernetes&logoColor=FFFFFF">
+                <img src="https://img.shields.io/static/v1?label=&message=Amazon%20EKS&color=FF9900&logo=amazon-eks&logoColor=FFFFFF">
             </td>
         </tr>
         <tr>
