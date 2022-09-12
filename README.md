@@ -20,6 +20,18 @@
         </tr>
         <tr>
             <td>
+                <a href="https://github.com/tigaron/train-ticket-checker">
+                    <img src="https://img.shields.io/static/v1?label=&message=train-ticket-checker&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605">
+                </a>
+            </td>
+            <td>
+                <img src="https://img.shields.io/static/v1?label=&message=Serverless&color=ff0000&logo=serverless&logoColor=FFFFFF">
+                <img src="https://img.shields.io/static/v1?label=&message=AWS%20Lambda&color=FF9900&logo=aws-lambda&logoColor=FFFFFF">
+                <img src="https://img.shields.io/static/v1?label=&message=Amazon%20API%20Gateway&color=FF9900&logo=amazon-api-gateway&logoColor=FFFFFF">
+            </td>
+        </tr>
+        <tr>
+            <td>
                 <a href="https://github.com/tigaron/serverless-manga-scrapper">
                     <img src="https://img.shields.io/static/v1?label=&message=serverless-manga-scrapper&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605">
                 </a>
@@ -30,6 +42,7 @@
                 <img src="https://img.shields.io/static/v1?label=&message=AWS%20Lambda&color=FF9900&logo=aws-lambda&logoColor=FFFFFF">
                 <img src="https://img.shields.io/static/v1?label=&message=Amazon%20DynamoDB&color=4053D6&logo=Amazon%20DynamoDB&logoColor=FFFFFF">
                 <img src="https://img.shields.io/static/v1?label=&message=Amazon%20SQS&color=FF9900&logo=amazon-sqs&logoColor=FFFFFF">
+                <img src="https://img.shields.io/static/v1?label=&message=Amazon%20API%20Gateway&color=FF9900&logo=amazon-api-gateway&logoColor=FFFFFF">
             </td>
         </tr>
         <tr>
