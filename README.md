@@ -11,7 +11,8 @@
 </details>
 <details open>
     <summary>
-        <h2 style="display:inline">Projects 🚀</h2>
+        <h2 style="display:inline">Side-Projects 🚀</h2>
+        <p>Here're some of my open-sourced projects that I work on in my free time:</p>
     </summary>
     <table>
         <tr>
@@ -20,11 +21,25 @@
         </tr>
         <tr>
             <td>
+                <a href="https://github.com/tigaron/train-checker-python">
+                    <img src="https://img.shields.io/static/v1?label=&message=train-checker-python&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605">
+                </a>
+            </td>
+            <td>
+                <img src="https://img.shields.io/static/v1?label=&message=Python&color=316192&logo=Python&logoColor=FFFFFF">
+                <img src="https://img.shields.io/static/v1?label=&message=Serverless&color=ff0000&logo=serverless&logoColor=FFFFFF">
+                <img src="https://img.shields.io/static/v1?label=&message=AWS%20Lambda&color=FF9900&logo=aws-lambda&logoColor=FFFFFF">
+                <img src="https://img.shields.io/static/v1?label=&message=Amazon%20API%20Gateway&color=FF9900&logo=amazon-api-gateway&logoColor=FFFFFF">
+            </td>
+        </tr>
+        <tr>
+            <td>
                 <a href="https://github.com/tigaron/train-ticket-checker">
                     <img src="https://img.shields.io/static/v1?label=&message=train-ticket-checker&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605">
                 </a>
             </td>
             <td>
+                <img src="https://img.shields.io/static/v1?label=&message=Node.js&color=4EAA25&logo=Node.js&logoColor=FFFFFF">
                 <img src="https://img.shields.io/static/v1?label=&message=Serverless&color=ff0000&logo=serverless&logoColor=FFFFFF">
                 <img src="https://img.shields.io/static/v1?label=&message=AWS%20Lambda&color=FF9900&logo=aws-lambda&logoColor=FFFFFF">
                 <img src="https://img.shields.io/static/v1?label=&message=Amazon%20API%20Gateway&color=FF9900&logo=amazon-api-gateway&logoColor=FFFFFF">
