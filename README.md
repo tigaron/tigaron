@@ -4,9 +4,9 @@
     </summary>
     <p>Hi! I'm <a href="https://www.linkedin.com/in/nikesuputra/">Nike Suputra</a>, a Node.js Software Developer and occasional AWS DevOps, currently working for a digital agency Four Leaves Studio. Here's a bit of my interest:</p>
     <ul>
-        <li>💻 <strong>Software Development</strong> - I enjoy software development in general, from back end to front end. I tackle most of the challenge using Javascript and its awesome libraries.</li>
+        <li>💻 <strong>Software Development</strong> - I enjoy software development in general, from back end to front end. I tackle most of challenges using JavaScript and its awesome libraries.</li>
         <li>🔄 <strong>Automation</strong> - I always try to automate any of my tasks or activities which can be done so, as this helps me save times and also avoid boring repetition.</li>
-        <li>📚 <strong>Currently Learning</strong> - Serverless computing, microservices, and Amazon Web Services.</li>
+        <li>📚 <strong>Currently Learning</strong> - Kubernetes, Golang, and Amazon Web Services.</li>
     <ul>
 </details>
 <details open>
@@ -21,28 +21,23 @@
         </tr>
         <tr>
             <td>
+                <a href="https://github.com/tigaron/train-checker-go">
+                    <img src="https://img.shields.io/static/v1?label=&message=train-checker-go&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605">
+                </a>
                 <a href="https://github.com/tigaron/train-checker-python">
                     <img src="https://img.shields.io/static/v1?label=&message=train-checker-python&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605">
                 </a>
-            </td>
-            <td>
-                <img src="https://img.shields.io/static/v1?label=&message=Python&color=316192&logo=Python&logoColor=FFFFFF">
-                <img src="https://img.shields.io/static/v1?label=&message=Serverless&color=ff0000&logo=serverless&logoColor=FFFFFF">
-                <img src="https://img.shields.io/static/v1?label=&message=AWS%20Lambda&color=FF9900&logo=aws-lambda&logoColor=FFFFFF">
-                <img src="https://img.shields.io/static/v1?label=&message=Amazon%20API%20Gateway&color=FF9900&logo=amazon-api-gateway&logoColor=FFFFFF">
-            </td>
-        </tr>
-        <tr>
-            <td>
                 <a href="https://github.com/tigaron/train-ticket-checker">
                     <img src="https://img.shields.io/static/v1?label=&message=train-ticket-checker&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605">
                 </a>
             </td>
             <td>
+                <img src="https://img.shields.io/static/v1?label=&message=Golang&color=67d7e1&logo=Go&logoColor=000000">
+                <img src="https://img.shields.io/static/v1?label=&message=Python&color=316192&logo=Python&logoColor=FFFFFF">
                 <img src="https://img.shields.io/static/v1?label=&message=Node.js&color=4EAA25&logo=Node.js&logoColor=FFFFFF">
                 <img src="https://img.shields.io/static/v1?label=&message=Serverless&color=ff0000&logo=serverless&logoColor=FFFFFF">
                 <img src="https://img.shields.io/static/v1?label=&message=AWS%20Lambda&color=FF9900&logo=aws-lambda&logoColor=FFFFFF">
-                <img src="https://img.shields.io/static/v1?label=&message=Amazon%20API%20Gateway&color=FF9900&logo=amazon-api-gateway&logoColor=FFFFFF">
+                <img src="https://img.shields.io/static/v1?label=&message=Amazon%20API%20Gateway&color=6a3cc4&logo=amazon-api-gateway&logoColor=FFFFFF">
             </td>
         </tr>
         <tr>
@@ -52,12 +47,13 @@
                 </a>
             </td>
             <td>
-                <img src="https://img.shields.io/static/v1?label=&message=Express.js&color=404d59&logo=express&logoColor=FFFFFF">
+                <img src="https://img.shields.io/static/v1?label=&message=Express.js&color=343434&logo=express&logoColor=FFFFFF">
+                <img src="https://img.shields.io/static/v1?label=&message=Yarn Workspaces&color=2c8eba&logo=yarn&logoColor=FFFFFF">
                 <img src="https://img.shields.io/static/v1?label=&message=Serverless&color=ff0000&logo=serverless&logoColor=FFFFFF">
                 <img src="https://img.shields.io/static/v1?label=&message=AWS%20Lambda&color=FF9900&logo=aws-lambda&logoColor=FFFFFF">
-                <img src="https://img.shields.io/static/v1?label=&message=Amazon%20DynamoDB&color=4053D6&logo=Amazon%20DynamoDB&logoColor=FFFFFF">
-                <img src="https://img.shields.io/static/v1?label=&message=Amazon%20SQS&color=FF9900&logo=amazon-sqs&logoColor=FFFFFF">
-                <img src="https://img.shields.io/static/v1?label=&message=Amazon%20API%20Gateway&color=FF9900&logo=amazon-api-gateway&logoColor=FFFFFF">
+                <img src="https://img.shields.io/static/v1?label=&message=Amazon%20DynamoDB&color=353bbf&logo=Amazon%20DynamoDB&logoColor=FFFFFF">
+                <img src="https://img.shields.io/static/v1?label=&message=Amazon%20SQS&color=e23874&logo=amazon-sqs&logoColor=FFFFFF">
+                <img src="https://img.shields.io/static/v1?label=&message=Amazon%20API%20Gateway&color=6a3cc4&logo=amazon-api-gateway&logoColor=FFFFFF">
             </td>
         </tr>
         <tr>
@@ -95,7 +91,7 @@
                 <img src="https://img.shields.io/static/v1?label=&message=GitLab%20CI/CD&color=0f0a19&logo=gitlab&logoColor=FFFFFF">
                 <img src="https://img.shields.io/static/v1?label=&message=Docker&color=1397c3&logo=docker&logoColor=FFFFFF">
                 <img src="https://img.shields.io/static/v1?label=&message=Kubernetes&color=336ce6&logo=kubernetes&logoColor=FFFFFF">
-                <img src="https://img.shields.io/static/v1?label=&message=Amazon%20EKS&color=FF9900&logo=amazon-eks&logoColor=FFFFFF">
+                <img src="https://img.shields.io/static/v1?label=&message=Amazon%20EKS&color=4053da&logo=amazon-eks&logoColor=FFFFFF">
             </td>
         </tr>
         <tr>
