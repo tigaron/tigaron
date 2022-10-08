@@ -2,18 +2,118 @@
     <summary>
         <h2 style="display:inline">Welcome to my GitHub profile! 👋</h2>
     </summary>
-    <p>Hi! I'm <a href="https://www.linkedin.com/in/nikesuputra/">Nike Suputra</a>, a Node.js Software Developer and occasional AWS DevOps, currently working for a digital agency Four Leaves Studio. Here's a bit of my interest:</p>
+    <p>Hi! I'm <a href="https://www.linkedin.com/in/nikesuputra/">Nike Suputra</a>, a Node.js Software Developer and occasional AWS DevOps, currently working for a cloud solutions company, <a href="https://www.lyrid.io/">Lyrid.io</a>. Here's a bit of my interest:</p>
     <ul>
         <li>💻 <strong>Software Development</strong> - I enjoy software development in general, from back end to front end. I tackle most of challenges using JavaScript and its awesome libraries.</li>
         <li>🔄 <strong>Automation</strong> - I always try to automate any of my tasks or activities which can be done so, as this helps me save times and also avoid boring repetition.</li>
         <li>📚 <strong>Currently Learning</strong> - Kubernetes, Golang, and Amazon Web Services.</li>
     <ul>
 </details>
-<details open>
+<details>
+	<summary><h2 style="display:inline">My Skill Set 🛠</h2></summary>
+	<table>
+		<tr>
+			<td valign="top" width="33%">
+				<p align="center">Frontend</p>
+				<div align="center">  
+					<a href="https://www.typescriptlang.org/" target="_blank">
+						<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
+					</a>  
+					<a href="https://www.javascript.com/" target="_blank">
+						<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+					</a>  
+					<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
+						<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+					</a>  
+					<a href="https://www.w3schools.com/css/" target="_blank">
+						<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
+					</a>  
+					<a href="https://reactjs.org/" target="_blank">
+						<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
+					</a>  
+					<a href="https://www.tailwindcss.com/" target="_blank">
+						<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
+					</a>  
+					<a href="https://www.figma.com/" target="_blank">
+						<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
+					</a>  
+					<a href="https://www.jestjs.io/" target="_blank">
+						<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" />
+					</a>
+				</div>
+			</td>
+			<td valign="top" width="33%">
+				<p align="center">Backend</p>
+				<div align="center">
+					<a href="https://www.typescriptlang.org/" target="_blank">
+						<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
+					</a>
+					<a href="https://www.javascript.com/" target="_blank">
+						<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+					</a>
+					<a href="https://nodejs.org/" target="_blank">
+						<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+					</a>
+					<a href="https://expressjs.com/" target="_blank">
+						<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
+					</a>
+					<a href="https://go.dev/" target="_blank">
+						<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />
+					</a>
+					<a href="https://www.python.org/" target="_blank">
+						<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+					</a>
+					<a href="https://www.mongodb.com/" target="_blank">
+						<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
+					</a>
+					<a href="https://www.postgresql.org/" target="_blank">
+						<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
+					</a>
+					<a href="https://mariadb.org/" target="_blank">
+						<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />
+					</a>
+					<a href="https://www.mysql.com/" target="_blank">
+						<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+					</a>
+					<a href="https://graphql.org/" target="_blank">
+						<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />
+					</a>
+				</div>
+			</td>
+			<td valign="top" width="33%">
+				<p align="center">DevOps</p>
+				<div align="center">
+					<a href="https://www.linux.org/" target="_blank">
+						<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
+					</a>
+					<a href="https://www.docker.com/" target="_blank">
+						<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
+					</a>
+					<a href="https://aws.amazon.com/" target="_blank">
+						<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
+					</a>
+					<a href="https://www.terraform.io/" target="_blank">
+						<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" />
+					</a>
+					<a href="https://github.com/" target="_blank">
+						<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+					</a>
+					<a href="https://about.gitlab.com/" target="_blank">
+						<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />
+					</a>
+					<a href="https://www.gnu.org/software/bash/" target="_blank">
+						<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
+					</a>
+				</div>
+			</td>
+		</tr>
+	</table>
+</details>
+<details>
     <summary>
         <h2 style="display:inline">Side-Projects 🚀</h2>
-        <p>Here're some of my open-sourced projects that I work on in my free time:</p>
     </summary>
+        <p>Here're some of my open-sourced projects that I work on in my free time:</p>
     <table>
         <tr>
             <th>Repository 🛠</th>
@@ -83,19 +183,6 @@
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/tigaron/gitlab-ecr-eks">
-                    <img src="https://img.shields.io/static/v1?label=&message=gitlab-ecr-eks&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605">
-                </a>
-            </td>
-            <td>
-                <img src="https://img.shields.io/static/v1?label=&message=GitLab%20CI/CD&color=0f0a19&logo=gitlab&logoColor=FFFFFF">
-                <img src="https://img.shields.io/static/v1?label=&message=Docker&color=1397c3&logo=docker&logoColor=FFFFFF">
-                <img src="https://img.shields.io/static/v1?label=&message=Kubernetes&color=336ce6&logo=kubernetes&logoColor=FFFFFF">
-                <img src="https://img.shields.io/static/v1?label=&message=Amazon%20EKS&color=4053da&logo=amazon-eks&logoColor=FFFFFF">
-            </td>
-        </tr>
-        <tr>
-            <td>
                 <a href="https://github.com/tigaron/subnet-calculator">
                     <img src="https://img.shields.io/static/v1?label=&message=subnet-calculator&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605">
                 </a>
@@ -110,16 +197,15 @@
         </tr>
     </table>
 </details>
-
-<details>
-    <summary>
-        <h2 style="display:inline">Statistics 📈</h2>
-    </summary>
-    <p align="center">
-        <a  style="display:grid;grid-template-columns:repeat(2, minmax(0, 1fr));gap: 0.5rem" href="https://github.com/tigaron">
-            <img src="https://github-readme-stats.vercel.app/api?username=tigaron&show_icons=true&theme=github_dark&hide_border=true" />
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=tigaron&theme=github-dark-blue&hide_border=true" />
-            <img style="grid-column:span 2 / span 2;" src="https://activity-graph.herokuapp.com/graph?username=tigaron&theme=react-dark&hide_border=true&radius=5&hide_title=true" />
-        </a>
-    </p>
+<details open>
+	<summary><h2 style="display:inline">Github Stats 📈</h2></summary>
+	<div align="center">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tigaron&hide_border=true&theme=github_dark&layout=compact" />
+		</div>
+	<div align="center">
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=tigaron&theme=github-dark-blue&hide_border=true" />
+	</div>
+	<div align="center">
+		<img src="https://activity-graph.herokuapp.com/graph?username=tigaron&theme=react-dark&hide_border=true&radius=5&hide_title=true" align="center" />
+	</div>  
 </details>
