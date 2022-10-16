@@ -30,7 +30,10 @@
 					</a>  
 					<a href="https://reactjs.org/" target="_blank">
 						<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-					</a>  
+					</a>
+					<a href="https://svelte.dev/" target="_blank">
+						<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/498px-Svelte_Logo.svg.png" alt="Svelte" height="50" />
+					</a>
 					<a href="https://www.tailwindcss.com/" target="_blank">
 						<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
 					</a>  
@@ -63,17 +66,14 @@
 					<a href="https://www.python.org/" target="_blank">
 						<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
 					</a>
+					<a href="https://aws.amazon.com/dynamodb/" target="_blank">
+						<img style="margin: 10px" src="https://amazon-dynamodb-labs.com/images/Amazon-DynamoDB.png" alt="Amazon DynamoDB" height="50" />
+					</a>
 					<a href="https://www.mongodb.com/" target="_blank">
 						<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
 					</a>
-					<a href="https://www.postgresql.org/" target="_blank">
-						<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
-					</a>
 					<a href="https://mariadb.org/" target="_blank">
 						<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />
-					</a>
-					<a href="https://www.mysql.com/" target="_blank">
-						<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
 					</a>
 					<a href="https://graphql.org/" target="_blank">
 						<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />
@@ -95,14 +95,17 @@
 					<a href="https://www.terraform.io/" target="_blank">
 						<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" />
 					</a>
+					<a href="https://www.gnu.org/software/bash/" target="_blank">
+						<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
+					</a>
 					<a href="https://github.com/" target="_blank">
 						<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
 					</a>
+					<a href="https://github.com/" target="_blank">
+						<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/600px-Octicons-mark-github.svg.png" alt="Github" height="50" />
+					</a>
 					<a href="https://about.gitlab.com/" target="_blank">
 						<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />
-					</a>
-					<a href="https://www.gnu.org/software/bash/" target="_blank">
-						<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
 					</a>
 				</div>
 			</td>
@@ -145,8 +148,15 @@
                 <a href="https://github.com/tigaron/serverless-manga-scrapper">
                     <img src="https://img.shields.io/static/v1?label=&message=serverless-manga-scrapper&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605">
                 </a>
+								<a href="https://github.com/tigaron/manga-scrapper-frontend-go">
+                    <img src="https://img.shields.io/static/v1?label=&message=manga-scrapper-frontend-go&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605">
+                </a>
+								<a href="https://github.com/tigaron/manga-scraper-backend-go">
+                    <img src="https://img.shields.io/static/v1?label=&message=manga-scraper-backend-go&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605">
+                </a>
             </td>
             <td>
+								<img src="https://img.shields.io/static/v1?label=&message=Golang&color=67d7e1&logo=Go&logoColor=000000">
                 <img src="https://img.shields.io/static/v1?label=&message=Express.js&color=343434&logo=express&logoColor=FFFFFF">
                 <img src="https://img.shields.io/static/v1?label=&message=Yarn Workspaces&color=2c8eba&logo=yarn&logoColor=FFFFFF">
                 <img src="https://img.shields.io/static/v1?label=&message=Serverless&color=ff0000&logo=serverless&logoColor=FFFFFF">
