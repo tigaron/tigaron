@@ -2,7 +2,7 @@
     <summary>
         <h2 style="display:inline">Welcome to my GitHub profile! 👋</h2>
     </summary>
-    <p>Hi! I'm <a href="https://www.linkedin.com/in/nikesuputra/">Nike Suputra</a>, a Go Back End Developer and Cloud DevOps Engineer with over 5 years of experience. Here's a bit of my interest:</p>
+    <p>Hi! I'm <!-- <a href="https://www.linkedin.com/in/nikesuputra/">Nike Suputra</a>, --> a Go Back End Developer and Cloud DevOps Engineer with over 5 years of experience. Here's a bit of my interest:</p>
     <ul>
         <li>💻 <strong>Software Development</strong> - I enjoy software development in general, from back end to front end. I tackle most challenges using Go and TypeScript.</li>
         <li>🔄 <strong>Automation</strong> - I always try to automate any of my tasks or activities which can be done so, as this helps me save times and also avoid boring repetition.</li>
